@@ -169,7 +169,8 @@ p {
     }
 }
 
-.header {
+.header,
+.footer {
     background-color: #131313;
 
     /* for fix on top */
